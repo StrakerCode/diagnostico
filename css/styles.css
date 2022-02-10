@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+  }
+
+.body-content {
+    background-color: rgb(0, 0, 0);
+    color:white;
+    min-height: 100vh;
+    margin: 0;
+    position: relative;
+    padding-bottom: 12em;
+}
+.header{
+    background-color: #212529;
+    text-align: center;
+    color: white;
+    height: 60px;
+}
+
+.cajaTitulos{
+    margin-top: 1%;
+    margin-left: 3%;
+
+}
+
+.formRegistro{
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 5%;
+}
+
+.text-center p-3{
+    margin-bottom: auto;
+}
+
+.container-buttons{
+    margin-left: 15%;
+    margin-right: auto;
+
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   
+}
+
+.tableDesing{
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
